@@ -1,2 +1,2 @@
 # ChocomintWebPage
- Chocomint's Official Web Page!
+Chocomint's Official Web Page!
