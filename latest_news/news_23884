@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    	<meta charset="utf-8" />
+    	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta property="og:title" content="物奧國手夥同一眾科學班公然歧視霸凌三類對話流出 狠酸「種田的應該也算三類吧」引發熱議">
+  </head>
+  <body onload="redirect()">
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" id="url"></a>
+	  
+    <script>
+		function redirect() { document.getElementById("url").click(); }
+    </script>
+  </body>
+</html>
