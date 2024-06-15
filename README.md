@@ -1,4 +1,4 @@
 # ChocomintWebPage
 Chocomint's Official Web Page!
 
-https://chocomint.cocodenut.org/
+https://chocominttw.github.io/ChocomintWebPage/
